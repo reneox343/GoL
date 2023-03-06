@@ -10,58 +10,7 @@ iteration: 1
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   5   |    71   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   2   |    28   |
-|   space   |   0   |    0    |
-|   total   |   7   |    -    |
-+-----------+-------+---------+
-
-iteration: 1
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   0   |    0    |
-|  beehive  |   0   |    0    |
-|    loaf   |   0   |    0    |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   6   |   100   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
-|   space   |   0   |    0    |
-|   total   |   6   |    -    |
-+-----------+-------+---------+
-
-iteration: 2
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   2   |    33   |
-|  beehive  |   0   |    0    |
-|    loaf   |   0   |    0    |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   4   |    66   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
-|   space   |   0   |    0    |
-|   total   |   6   |    -    |
-+-----------+-------+---------+
-
-iteration: 3
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   2   |    40   |
-|  beehive  |   0   |    0    |
-|    loaf   |   0   |    0    |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   3   |    60   |
+|  blinker  |   5   |   100   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
@@ -69,186 +18,16 @@ iteration: 3
 |   total   |   5   |    -    |
 +-----------+-------+---------+
 
-iteration: 4
+iteration: 1
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   4   |    36   |
+|   block   |   2   |    28   |
 |  beehive  |   0   |    0    |
-|    loaf   |   1   |    9    |
+|    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   5   |    45   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   1   |    9    |
-|   space   |   0   |    0    |
-|   total   |   11  |    -    |
-+-----------+-------+---------+
-
-iteration: 5
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   5   |    50   |
-|  beehive  |   0   |    0    |
-|    loaf   |   1   |    10   |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   4   |    40   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
-|   space   |   0   |    0    |
-|   total   |   10  |    -    |
-+-----------+-------+---------+
-
-iteration: 6
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   6   |    54   |
-|  beehive  |   0   |    0    |
-|    loaf   |   1   |    9    |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   4   |    36   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
-|   space   |   0   |    0    |
-|   total   |   11  |    -    |
-+-----------+-------+---------+
-
-iteration: 7
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   5   |    62   |
-|  beehive  |   0   |    0    |
-|    loaf   |   1   |    12   |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   2   |    25   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
-|   space   |   0   |    0    |
-|   total   |   8   |    -    |
-+-----------+-------+---------+
-
-iteration: 8
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   6   |    60   |
-|  beehive  |   0   |    0    |
-|    loaf   |   1   |    10   |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   3   |    30   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
-|   space   |   0   |    0    |
-|   total   |   10  |    -    |
-+-----------+-------+---------+
-
-iteration: 9
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   7   |    70   |
-|  beehive  |   0   |    0    |
-|    loaf   |   1   |    10   |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   2   |    20   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
-|   space   |   0   |    0    |
-|   total   |   10  |    -    |
-+-----------+-------+---------+
-
-iteration: 10
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   6   |    60   |
-|  beehive  |   1   |    10   |
-|    loaf   |   1   |    10   |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   2   |    20   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
-|   space   |   0   |    0    |
-|   total   |   10  |    -    |
-+-----------+-------+---------+
-
-iteration: 11
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   6   |    66   |
-|  beehive  |   0   |    0    |
-|    loaf   |   1   |    11   |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   2   |    22   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
-|   space   |   0   |    0    |
-|   total   |   9   |    -    |
-+-----------+-------+---------+
-
-iteration: 12
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   6   |    75   |
-|  beehive  |   0   |    0    |
-|    loaf   |   1   |    12   |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   1   |    12   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
-|   space   |   0   |    0    |
-|   total   |   8   |    -    |
-+-----------+-------+---------+
-
-iteration: 13
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   6   |    66   |
-|  beehive  |   1   |    11   |
-|    loaf   |   1   |    11   |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   1   |    11   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
-|   space   |   0   |    0    |
-|   total   |   9   |    -    |
-+-----------+-------+---------+
-
-iteration: 14
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   5   |    71   |
-|  beehive  |   0   |    0    |
-|    loaf   |   1   |    14   |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   1   |    14   |
+|  blinker  |   5   |    71   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
@@ -256,13 +35,13 @@ iteration: 14
 |   total   |   7   |    -    |
 +-----------+-------+---------+
 
-iteration: 15
+iteration: 2
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
 |   block   |   5   |    62   |
-|  beehive  |   0   |    0    |
-|    loaf   |   1   |    12   |
+|  beehive  |   1   |    12   |
+|    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
 |  blinker  |   2   |    25   |
@@ -273,41 +52,92 @@ iteration: 15
 |   total   |   8   |    -    |
 +-----------+-------+---------+
 
-iteration: 16
+iteration: 3
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   7   |    63   |
-|  beehive  |   0   |    0    |
-|    loaf   |   1   |    9    |
+|   block   |   3   |    75   |
+|  beehive  |   1   |    25   |
+|    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   3   |    27   |
+|  blinker  |   0   |    0    |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
 |   space   |   0   |    0    |
-|   total   |   11  |    -    |
+|   total   |   4   |    -    |
 +-----------+-------+---------+
 
-iteration: 17
+iteration: 4
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   6   |    54   |
-|  beehive  |   0   |    0    |
-|    loaf   |   1   |    9    |
-|    boat   |   1   |    9    |
+|   block   |   3   |    75   |
+|  beehive  |   1   |    25   |
+|    loaf   |   0   |    0    |
+|    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   3   |    27   |
+|  blinker  |   0   |    0    |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
 |   space   |   0   |    0    |
-|   total   |   11  |    -    |
+|   total   |   4   |    -    |
 +-----------+-------+---------+
 
-iteration: 18
+iteration: 5
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   2   |    66   |
+|  beehive  |   1   |    33   |
+|    loaf   |   0   |    0    |
+|    boat   |   0   |    0    |
+|    tub    |   0   |    0    |
+|  blinker  |   0   |    0    |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   3   |    -    |
++-----------+-------+---------+
+
+iteration: 6
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   2   |    50   |
+|  beehive  |   1   |    25   |
+|    loaf   |   0   |    0    |
+|    boat   |   0   |    0    |
+|    tub    |   0   |    0    |
+|  blinker  |   1   |    25   |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   4   |    -    |
++-----------+-------+---------+
+
+iteration: 7
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   2   |    66   |
+|  beehive  |   1   |    33   |
+|    loaf   |   0   |    0    |
+|    boat   |   0   |    0    |
+|    tub    |   0   |    0    |
+|  blinker  |   0   |    0    |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   3   |    -    |
++-----------+-------+---------+
+
+iteration: 8
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
@@ -324,7 +154,92 @@ iteration: 18
 |   total   |   9   |    -    |
 +-----------+-------+---------+
 
-iteration: 19
+iteration: 9
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   6   |    75   |
+|  beehive  |   1   |    12   |
+|    loaf   |   0   |    0    |
+|    boat   |   0   |    0    |
+|    tub    |   0   |    0    |
+|  blinker  |   1   |    12   |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   8   |    -    |
++-----------+-------+---------+
+
+iteration: 10
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   5   |    83   |
+|  beehive  |   1   |    16   |
+|    loaf   |   0   |    0    |
+|    boat   |   0   |    0    |
+|    tub    |   0   |    0    |
+|  blinker  |   0   |    0    |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   6   |    -    |
++-----------+-------+---------+
+
+iteration: 11
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   6   |    85   |
+|  beehive  |   1   |    14   |
+|    loaf   |   0   |    0    |
+|    boat   |   0   |    0    |
+|    tub    |   0   |    0    |
+|  blinker  |   0   |    0    |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   7   |    -    |
++-----------+-------+---------+
+
+iteration: 12
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   5   |    71   |
+|  beehive  |   1   |    14   |
+|    loaf   |   0   |    0    |
+|    boat   |   0   |    0    |
+|    tub    |   0   |    0    |
+|  blinker  |   1   |    14   |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   7   |    -    |
++-----------+-------+---------+
+
+iteration: 13
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   5   |    71   |
+|  beehive  |   1   |    14   |
+|    loaf   |   0   |    0    |
+|    boat   |   0   |    0    |
+|    tub    |   0   |    0    |
+|  blinker  |   1   |    14   |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   7   |    -    |
++-----------+-------+---------+
+
+iteration: 14
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
@@ -341,12 +256,12 @@ iteration: 19
 |   total   |   10  |    -    |
 +-----------+-------+---------+
 
-iteration: 20
+iteration: 15
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   5   |    71   |
-|  beehive  |   0   |    0    |
+|   block   |   4   |    57   |
+|  beehive  |   1   |    14   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
@@ -358,12 +273,114 @@ iteration: 20
 |   total   |   7   |    -    |
 +-----------+-------+---------+
 
+iteration: 16
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   3   |    60   |
+|  beehive  |   1   |    20   |
+|    loaf   |   0   |    0    |
+|    boat   |   0   |    0    |
+|    tub    |   0   |    0    |
+|  blinker  |   1   |    20   |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   5   |    -    |
++-----------+-------+---------+
+
+iteration: 17
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   4   |    66   |
+|  beehive  |   1   |    16   |
+|    loaf   |   0   |    0    |
+|    boat   |   0   |    0    |
+|    tub    |   0   |    0    |
+|  blinker  |   1   |    16   |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   6   |    -    |
++-----------+-------+---------+
+
+iteration: 18
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   4   |    66   |
+|  beehive  |   2   |    33   |
+|    loaf   |   0   |    0    |
+|    boat   |   0   |    0    |
+|    tub    |   0   |    0    |
+|  blinker  |   0   |    0    |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   6   |    -    |
++-----------+-------+---------+
+
+iteration: 19
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   3   |    37   |
+|  beehive  |   2   |    25   |
+|    loaf   |   1   |    12   |
+|    boat   |   0   |    0    |
+|    tub    |   0   |    0    |
+|  blinker  |   2   |    25   |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   8   |    -    |
++-----------+-------+---------+
+
+iteration: 20
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   4   |    50   |
+|  beehive  |   2   |    25   |
+|    loaf   |   0   |    0    |
+|    boat   |   0   |    0    |
+|    tub    |   0   |    0    |
+|  blinker  |   2   |    25   |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   8   |    -    |
++-----------+-------+---------+
+
 iteration: 21
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   5   |    62   |
-|  beehive  |   0   |    0    |
+|   block   |   3   |    42   |
+|  beehive  |   2   |    28   |
+|    loaf   |   0   |    0    |
+|    boat   |   0   |    0    |
+|    tub    |   0   |    0    |
+|  blinker  |   2   |    28   |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   7   |    -    |
++-----------+-------+---------+
+
+iteration: 22
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   3   |    37   |
+|  beehive  |   2   |    25   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
@@ -375,118 +392,50 @@ iteration: 21
 |   total   |   8   |    -    |
 +-----------+-------+---------+
 
-iteration: 22
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   5   |    71   |
-|  beehive  |   0   |    0    |
-|    loaf   |   0   |    0    |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   2   |    28   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
-|   space   |   0   |    0    |
-|   total   |   7   |    -    |
-+-----------+-------+---------+
-
 iteration: 23
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   4   |    66   |
-|  beehive  |   0   |    0    |
+|   block   |   4   |    33   |
+|  beehive  |   2   |    16   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   2   |    33   |
+|  blinker  |   5   |    41   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
+|   glider  |   1   |    8    |
 |   space   |   0   |    0    |
-|   total   |   6   |    -    |
+|   total   |   12  |    -    |
 +-----------+-------+---------+
 
 iteration: 24
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   5   |    71   |
-|  beehive  |   0   |    0    |
-|    loaf   |   0   |    0    |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   2   |    28   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
-|   space   |   0   |    0    |
-|   total   |   7   |    -    |
-+-----------+-------+---------+
-
-iteration: 25
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   4   |    66   |
-|  beehive  |   0   |    0    |
-|    loaf   |   0   |    0    |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   2   |    33   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
-|   space   |   0   |    0    |
-|   total   |   6   |    -    |
-+-----------+-------+---------+
-
-iteration: 26
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   5   |    71   |
-|  beehive  |   0   |    0    |
-|    loaf   |   0   |    0    |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   2   |    28   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
-|   space   |   0   |    0    |
-|   total   |   7   |    -    |
-+-----------+-------+---------+
-
-iteration: 27
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   5   |    62   |
-|  beehive  |   0   |    0    |
+|   block   |   4   |    50   |
+|  beehive  |   2   |    25   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
 |  blinker  |   2   |    25   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
-|   glider  |   1   |    12   |
+|   glider  |   0   |    0    |
 |   space   |   0   |    0    |
 |   total   |   8   |    -    |
 +-----------+-------+---------+
 
-iteration: 28
+iteration: 25
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
 |   block   |   4   |    44   |
-|  beehive  |   0   |    0    |
+|  beehive  |   2   |    22   |
 |    loaf   |   0   |    0    |
-|    boat   |   0   |    0    |
+|    boat   |   1   |    11   |
 |    tub    |   0   |    0    |
-|  blinker  |   5   |    55   |
+|  blinker  |   2   |    22   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
@@ -494,21 +443,72 @@ iteration: 28
 |   total   |   9   |    -    |
 +-----------+-------+---------+
 
-iteration: 29
+iteration: 26
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   3   |    42   |
-|  beehive  |   0   |    0    |
+|   block   |   4   |    36   |
+|  beehive  |   3   |    27   |
 |    loaf   |   0   |    0    |
-|    boat   |   0   |    0    |
+|    boat   |   1   |    9    |
 |    tub    |   0   |    0    |
-|  blinker  |   4   |    57   |
+|  blinker  |   3   |    27   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
 |   space   |   0   |    0    |
-|   total   |   7   |    -    |
+|   total   |   11  |    -    |
++-----------+-------+---------+
+
+iteration: 27
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   3   |    25   |
+|  beehive  |   3   |    25   |
+|    loaf   |   0   |    0    |
+|    boat   |   1   |    8    |
+|    tub    |   0   |    0    |
+|  blinker  |   5   |    41   |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   12  |    -    |
++-----------+-------+---------+
+
+iteration: 28
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   3   |    37   |
+|  beehive  |   3   |    37   |
+|    loaf   |   0   |    0    |
+|    boat   |   0   |    0    |
+|    tub    |   0   |    0    |
+|  blinker  |   2   |    25   |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   8   |    -    |
++-----------+-------+---------+
+
+iteration: 29
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   3   |    37   |
+|  beehive  |   3   |    37   |
+|    loaf   |   0   |    0    |
+|    boat   |   0   |    0    |
+|    tub    |   0   |    0    |
+|  blinker  |   2   |    25   |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   8   |    -    |
 +-----------+-------+---------+
 
 iteration: 30
@@ -516,11 +516,11 @@ iteration: 30
 | life Form | Count | Percent |
 +-----------+-------+---------+
 |   block   |   3   |    33   |
-|  beehive  |   0   |    0    |
+|  beehive  |   3   |    33   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   6   |    66   |
+|  blinker  |   3   |    33   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
@@ -532,46 +532,46 @@ iteration: 31
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   3   |    42   |
-|  beehive  |   0   |    0    |
+|   block   |   3   |    30   |
+|  beehive  |   2   |    20   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   4   |    57   |
+|  blinker  |   5   |    50   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
 |   space   |   0   |    0    |
-|   total   |   7   |    -    |
+|   total   |   10  |    -    |
 +-----------+-------+---------+
 
 iteration: 32
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   3   |    50   |
-|  beehive  |   0   |    0    |
+|   block   |   2   |    25   |
+|  beehive  |   2   |    25   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   3   |    50   |
+|  blinker  |   3   |    37   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
+|   glider  |   1   |    12   |
 |   space   |   0   |    0    |
-|   total   |   6   |    -    |
+|   total   |   8   |    -    |
 +-----------+-------+---------+
 
 iteration: 33
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   5   |    55   |
-|  beehive  |   0   |    0    |
+|   block   |   4   |    44   |
+|  beehive  |   2   |    22   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   4   |    44   |
+|  blinker  |   3   |    33   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
@@ -583,46 +583,29 @@ iteration: 34
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   3   |    50   |
-|  beehive  |   0   |    0    |
+|   block   |   4   |    36   |
+|  beehive  |   3   |    27   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   3   |    50   |
+|  blinker  |   4   |    36   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
 |   space   |   0   |    0    |
-|   total   |   6   |    -    |
+|   total   |   11  |    -    |
 +-----------+-------+---------+
 
 iteration: 35
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   3   |    50   |
-|  beehive  |   0   |    0    |
+|   block   |   4   |    40   |
+|  beehive  |   2   |    20   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   3   |    50   |
-|    toad   |   0   |    0    |
-|   beacon  |   0   |    0    |
-|   glider  |   0   |    0    |
-|   space   |   0   |    0    |
-|   total   |   6   |    -    |
-+-----------+-------+---------+
-
-iteration: 36
-+-----------+-------+---------+
-| life Form | Count | Percent |
-+-----------+-------+---------+
-|   block   |   3   |    30   |
-|  beehive  |   0   |    0    |
-|    loaf   |   0   |    0    |
-|    boat   |   0   |    0    |
-|    tub    |   0   |    0    |
-|  blinker  |   7   |    70   |
+|  blinker  |   4   |    40   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
@@ -630,16 +613,33 @@ iteration: 36
 |   total   |   10  |    -    |
 +-----------+-------+---------+
 
+iteration: 36
++-----------+-------+---------+
+| life Form | Count | Percent |
++-----------+-------+---------+
+|   block   |   3   |    33   |
+|  beehive  |   2   |    22   |
+|    loaf   |   0   |    0    |
+|    boat   |   0   |    0    |
+|    tub    |   0   |    0    |
+|  blinker  |   4   |    44   |
+|    toad   |   0   |    0    |
+|   beacon  |   0   |    0    |
+|   glider  |   0   |    0    |
+|   space   |   0   |    0    |
+|   total   |   9   |    -    |
++-----------+-------+---------+
+
 iteration: 37
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
 |   block   |   3   |    30   |
-|  beehive  |   0   |    0    |
+|  beehive  |   2   |    20   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   7   |    70   |
+|  blinker  |   5   |    50   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
@@ -651,12 +651,12 @@ iteration: 38
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   3   |    30   |
-|  beehive  |   0   |    0    |
+|   block   |   4   |    40   |
+|  beehive  |   2   |    20   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   7   |    70   |
+|  blinker  |   4   |    40   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
@@ -669,11 +669,11 @@ iteration: 39
 | life Form | Count | Percent |
 +-----------+-------+---------+
 |   block   |   3   |    27   |
-|  beehive  |   0   |    0    |
+|  beehive  |   3   |    27   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   8   |    72   |
+|  blinker  |   5   |    45   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
@@ -685,29 +685,29 @@ iteration: 40
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   3   |    33   |
-|  beehive  |   0   |    0    |
+|   block   |   3   |    27   |
+|  beehive  |   3   |    27   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   6   |    66   |
+|  blinker  |   5   |    45   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
 |   space   |   0   |    0    |
-|   total   |   9   |    -    |
+|   total   |   11  |    -    |
 +-----------+-------+---------+
 
 iteration: 41
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   3   |    33   |
-|  beehive  |   0   |    0    |
+|   block   |   4   |    44   |
+|  beehive  |   3   |    33   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   6   |    66   |
+|  blinker  |   2   |    22   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
@@ -719,34 +719,34 @@ iteration: 42
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   3   |    33   |
-|  beehive  |   0   |    0    |
+|   block   |   3   |    42   |
+|  beehive  |   2   |    28   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   6   |    66   |
+|  blinker  |   2   |    28   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
 |   space   |   0   |    0    |
-|   total   |   9   |    -    |
+|   total   |   7   |    -    |
 +-----------+-------+---------+
 
 iteration: 43
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   3   |    33   |
-|  beehive  |   0   |    0    |
+|   block   |   4   |    40   |
+|  beehive  |   2   |    20   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   6   |    66   |
+|  blinker  |   4   |    40   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
 |   space   |   0   |    0    |
-|   total   |   9   |    -    |
+|   total   |   10  |    -    |
 +-----------+-------+---------+
 
 iteration: 44
@@ -754,11 +754,11 @@ iteration: 44
 | life Form | Count | Percent |
 +-----------+-------+---------+
 |   block   |   4   |    36   |
-|  beehive  |   0   |    0    |
+|  beehive  |   2   |    18   |
 |    loaf   |   0   |    0    |
 |    boat   |   0   |    0    |
 |    tub    |   0   |    0    |
-|  blinker  |   7   |    63   |
+|  blinker  |   5   |    45   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
@@ -770,101 +770,101 @@ iteration: 45
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   3   |    33   |
-|  beehive  |   0   |    0    |
+|   block   |   5   |    41   |
+|  beehive  |   1   |    8    |
 |    loaf   |   0   |    0    |
-|    boat   |   0   |    0    |
+|    boat   |   1   |    8    |
 |    tub    |   0   |    0    |
-|  blinker  |   6   |    66   |
+|  blinker  |   5   |    41   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
 |   space   |   0   |    0    |
-|   total   |   9   |    -    |
+|   total   |   12  |    -    |
 +-----------+-------+---------+
 
 iteration: 46
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   3   |    23   |
-|  beehive  |   0   |    0    |
+|   block   |   3   |    37   |
+|  beehive  |   1   |    12   |
 |    loaf   |   0   |    0    |
-|    boat   |   0   |    0    |
+|    boat   |   1   |    12   |
 |    tub    |   0   |    0    |
-|  blinker  |   10  |    76   |
+|  blinker  |   3   |    37   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
 |   space   |   0   |    0    |
-|   total   |   13  |    -    |
+|   total   |   8   |    -    |
 +-----------+-------+---------+
 
 iteration: 47
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   4   |    33   |
-|  beehive  |   0   |    0    |
+|   block   |   3   |    50   |
+|  beehive  |   1   |    16   |
 |    loaf   |   0   |    0    |
-|    boat   |   0   |    0    |
+|    boat   |   1   |    16   |
 |    tub    |   0   |    0    |
-|  blinker  |   8   |    66   |
+|  blinker  |   1   |    16   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
 |   space   |   0   |    0    |
-|   total   |   12  |    -    |
+|   total   |   6   |    -    |
 +-----------+-------+---------+
 
 iteration: 48
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   4   |    33   |
-|  beehive  |   0   |    0    |
+|   block   |   3   |    42   |
+|  beehive  |   2   |    28   |
 |    loaf   |   0   |    0    |
-|    boat   |   0   |    0    |
+|    boat   |   1   |    14   |
 |    tub    |   0   |    0    |
-|  blinker  |   8   |    66   |
+|  blinker  |   1   |    14   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
 |   space   |   0   |    0    |
-|   total   |   12  |    -    |
+|   total   |   7   |    -    |
 +-----------+-------+---------+
 
 iteration: 49
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   4   |    33   |
-|  beehive  |   0   |    0    |
+|   block   |   3   |    37   |
+|  beehive  |   2   |    25   |
 |    loaf   |   0   |    0    |
-|    boat   |   0   |    0    |
+|    boat   |   1   |    12   |
 |    tub    |   0   |    0    |
-|  blinker  |   8   |    66   |
+|  blinker  |   2   |    25   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
 |   space   |   0   |    0    |
-|   total   |   12  |    -    |
+|   total   |   8   |    -    |
 +-----------+-------+---------+
 
 iteration: 50
 +-----------+-------+---------+
 | life Form | Count | Percent |
 +-----------+-------+---------+
-|   block   |   4   |    30   |
-|  beehive  |   0   |    0    |
+|   block   |   3   |    27   |
+|  beehive  |   2   |    18   |
 |    loaf   |   0   |    0    |
-|    boat   |   0   |    0    |
+|    boat   |   2   |    18   |
 |    tub    |   0   |    0    |
-|  blinker  |   9   |    69   |
+|  blinker  |   4   |    36   |
 |    toad   |   0   |    0    |
 |   beacon  |   0   |    0    |
 |   glider  |   0   |    0    |
 |   space   |   0   |    0    |
-|   total   |   13  |    -    |
+|   total   |   11  |    -    |
 +-----------+-------+---------+
 

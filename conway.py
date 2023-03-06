@@ -124,7 +124,7 @@ def findLife(grid,i):
 #searches for the live forms
 def explore(grid,form,rotations =0):
     #this affects how well the algoritm can see figures
-    threshold = 0.5
+    threshold = 0.4
     if(rotations == 0):
         res = cv2.matchTemplate(grid,form,cv2.TM_SQDIFF)
         loc = np.where(res <= threshold)
